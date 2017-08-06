@@ -5,6 +5,7 @@ To order one, download the "ap4_gerbers.zip" file and upload it to a PCB vendor.
 For seeedstudio.com, for example, go to https://www.seeedstudio.com/fusion_pcb.html, upload the ap4_gerbers.zip file, then set the following:
 
 PCB Color: White
+
 Surface Finish: ENIG
 
 All other options can be left as their defaults
