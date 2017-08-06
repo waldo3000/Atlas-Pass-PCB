@@ -2,11 +2,11 @@
 A custom PCB designed to look like a No Man's Sky Atlas Pass v4
 
 To order one, download the "ap4_gerbers.zip" file and upload it to a PCB vendor.
-For seeedstudio.com, for example, go to https://www.seeedstudio.com/fusion_pcb.html, upload the ap4_gerbers.zip file, then set the following:
+For seeedstudio.com, for example, go to https://www.seeedstudio.com/fusion_pcb.html, click "Add Your Gerber File", upload the ap4_gerbers.zip file, then set the following:
 
-PCB Color: White
+PCB Color: White (this makes the board white instead of green)
 
-Surface Finish: ENIG
+Surface Finish: ENIG (this makes the metal portions gold instead of silver)
 
 All other options can be left as their defaults
 
