@@ -1,4 +1,4 @@
-# Atlas-Pass-PCB
+# Atlas Pass v4 PCB
 A custom PCB designed to look like a No Man's Sky Atlas Pass v4
 
 To order one, download the "ap4_gerbers.zip" file and upload it to a PCB vendor.
